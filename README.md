@@ -11,14 +11,12 @@ practiceMD
 ###　案件対応時は必ず新規branchを作成して対応すること。  
 __ブランチ命名規約__
 
-*　＜追加／変更案件＞
-    *　feature_{機能名（英語）}
-
-*　＜障害＞
-    *　bugfix_{障害番号}
-
-*　＜Thymeleaf＞
-    *　Thymeleaf_{案件（画面）名}
+    *　__追加／変更案件__
+        *　feature_{機能名（英語）}
+    *　障害
+        *　bugfix_{障害番号}
+    *　Thymeleaf
+        *　Thymeleaf_{案件（画面）名}
 
 
 ###　直接「master」及び「develop」ブランチへの「push」は行わないこと。
